@@ -6,3 +6,6 @@
 [submodule "Submodules/AtomicExamples"]
 	path = Submodules/AtomicExamples
 	url = https://github.com/AtomicGameEngine/AtomicExamples
+[submodule "Submodules/depot_tools"]
+	path = Submodules/depot_tools
+	url = https://chromium.googlesource.com/chromium/tools/depot_tools.git
