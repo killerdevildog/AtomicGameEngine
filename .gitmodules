@@ -1,6 +1,8 @@
 [submodule "Submodules/CEF"]
 	path = Submodules/CEF
-	url = https://github.com/AtomicGameEngine/CEF3Binaries
+	url = https://github.com/killerdevildog/cef.git
+	branch = master
+	recurse = true
 [submodule "Submodules/AtomicExamples"]
 	path = Submodules/AtomicExamples
 	url = https://github.com/AtomicGameEngine/AtomicExamples
